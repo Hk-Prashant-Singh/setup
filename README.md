@@ -1,4 +1,4 @@
-# this program 8 number option next update
+# this program 8 no option next update fix
 # setup
 git clone https://github.com/Hk-Prashant-Singh/setup.git
 
