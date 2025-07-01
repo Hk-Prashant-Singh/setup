@@ -1,5 +1,6 @@
 # this program 8 no option next update fix
 # setup
+pkg install git
 git clone https://github.com/Hk-Prashant-Singh/setup.git
 
 # RUN COMMAND 
