@@ -2,6 +2,15 @@
 MENU USE HACKER 
 # (1)apt update
 # (2)apt upgrade 
+pkg install figlet
+# copy 
+pkg install lolcat 
+# copy
+pkg install python
+# copy
+pkg install python3
+# copy 
+pkg install git
 # setup all copy 
 git clone https://github.com/Hk-Prashant-Singh/setup.git
 
