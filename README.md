@@ -1,8 +1,8 @@
 # this program 8 no option
  next update fix
-# HACKER use MENU
-# (1)apt update
-# (2)apt upgrade 
+# HACKER[]-use-[]MY_MENU 
+(1)apt update/-apt upgrade 
+# copy text 
 pkg install figlet
 # copy 
 pkg install lolcat 
