@@ -1,4 +1,5 @@
-# this program 8 no option next update fix
+# this program 8 no option
+# next update fix
 MENU USE HACKER 
 # (1)apt update
 # (2)apt upgrade 
