@@ -1,6 +1,6 @@
 # this program 8 no option
-# next update fix
-MENU USE HACKER 
+ next update fix
+# HACKER use MENU
 # (1)apt update
 # (2)apt upgrade 
 pkg install figlet
