@@ -2,6 +2,8 @@
  next update fix
 # HACKER[]-use-[]MY_MENU 
 (1)apt update/-apt upgrade 
+# install pkg
+pkg install openjdk-17
 # copy text 
 pkg install figlet
 # copy 
